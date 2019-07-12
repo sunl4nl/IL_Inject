@@ -25,7 +25,8 @@ public class Inject
 你也可以选择其开源版本。
 
 通过ILDasm.exe工具反编译我们项目自己的程序集文件得到，即反编译/Library/ScriptAssemblies/Assembly-CSharp.dll文件。
-该工具在Windows SDK中能够找到，我用的是这个路径下的，供大家参考：
+该工具在Windows SDK中能够找到
+我用的是这个路径下的，供大家参考：
 C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6 Tools\x64
 
 
