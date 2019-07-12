@@ -1,3 +1,0 @@
-/Users/zengfeng/workspaces/www/githubpages/ihaiu.Loger/IhaiuLog/IhaiuLog/bin/Release/IhaiuLog.dll
-/Users/zengfeng/workspaces/www/githubpages/ihaiu.Loger/IhaiuLog/IhaiuLog/obj/Release/IhaiuLog.dll
-/Users/zengfeng/workspaces/www/githubpages/ihaiu.Loger/IhaiuLog/IhaiuLog/bin/Release/UnityEngine.dll
