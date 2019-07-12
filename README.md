@@ -2,6 +2,7 @@
 使用Mono.Cecil实现IL代码注入
 
 通过Inject IL代码修复代码错误： 修复Inject GetMax函数为Normal GetMax执行
+···
 public class Normal
 {
     public static int GetMax(int a, int b)
@@ -19,7 +20,7 @@ public class Inject
         return a;
     }
 }
-
+···
 要使用Mono.Cecil我们首先需要将其包含到我们的项目中，在Unity的安装目录（我的在C:\Program Files\Unity\Editor\Data\Managed供参考），
 找到对应的程序集文件，将Mono.Cecil.dll、Mono.Cecil.Mdb.dll、Mono.Cecil.Pdb.dll其放在Assets/Plugins/Cecil目录中。
 你也可以选择其开源版本。
